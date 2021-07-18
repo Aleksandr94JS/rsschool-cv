@@ -6,5 +6,5 @@
 4. I study html, JavaScript, CSS, I also get acquainted with Git, I own VS Code.
 5. I am currently taking the RSSchool JS / FRONT-END course. STAGE 0.
 6. Secondary education.
-7. School level English, no practice.
+7. Basic level English, no practice.
 8. 
