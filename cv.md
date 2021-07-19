@@ -7,4 +7,4 @@
 5. I am currently taking the RSSchool JS / FRONT-END course. STAGE 0.
 6. Secondary education.
 7. Basic level English, no practice.
-8. 
+8. [Video resume](https://youtu.be/oIgQATAnrkc)
