@@ -1,0 +1,52 @@
+
+body {
+    align-content: center;
+    background-image: url(background.jpg);
+    background-color: rgba(228, 181, 28, 0.836);
+}
+.info {
+    font-size: 20px;
+}
+h1 {
+    color: rgb(9, 9, 31);
+    text-align: center;
+    font-size: 40px;
+}
+h6 {
+    font-size: 30px;
+    text-align: center;
+    
+}
+header{
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    background-color:rgb(100, 116, 187);
+    color: rgb(7, 0, 0);
+
+}
+ul {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 4em;
+}
+p {
+    align-content: center;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.contacts {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+}
+.project {
+    text-align: center;
+}
