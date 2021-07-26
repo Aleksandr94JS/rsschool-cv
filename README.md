@@ -1,1 +1,1 @@
-https://Aleksandr94JS.github.io/rsschool-cv/cv
+https://Aleksandr94JS.github.io/rsschool-cv/git push 
